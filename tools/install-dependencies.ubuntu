@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
+sudo apt install build-essential nasm python2 openjdk-14-jdk
 sudo apt install libpng-dev libbz2-dev m4 xorg-dev libglu1-mesa-dev libharfbuzz-dev libgtk-3-dev libfontconfig1-dev nasm clang
